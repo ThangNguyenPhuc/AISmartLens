@@ -9,10 +9,27 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.22.3",
+    "@react-navigation/bottom-tabs": "^6.5.20",
+    "@react-navigation/native-stack": "^6.9.25",
+    "@tensorflow-models/mobilenet": "^2.1.1",
+    "@tensorflow/tfjs": "^4.17.0",
+    "@tensorflow/tfjs-converter": "^4.17.0",
+    "@tensorflow/tfjs-core": "^4.17.0",
+    "@tensorflow/tfjs-react-native": "^1.0.0",
+    "axios": "^1.6.8",
     "expo": "~50.0.13",
+    "expo-file-system": "^16.0.8",
+    "expo-image-picker": "^14.7.1",
     "expo-status-bar": "~1.11.1",
+    "firebase": "^10.9.0",
+    "jpeg-js": "^0.4.4",
     "react": "18.2.0",
-    "react-native": "0.73.5"
+    "react-native": "0.73.5",
+    "react-native-dialog": "^9.3.0",
+    "react-native-elements": "^3.4.3",
+    "react-native-fs": "^2.20.0",
+    "expo-speech": "~11.7.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
